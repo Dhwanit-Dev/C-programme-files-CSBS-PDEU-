@@ -34,3 +34,4 @@ void main()
     printf("%d is the smallest and %d is the largest number.", s, g);
 
 }
+
